@@ -22,3 +22,11 @@
 ![SS03_2_eng](https://user-images.githubusercontent.com/48848418/79066188-14b2c480-7ce0-11ea-8b55-e3d0dd1ce67e.png)
 
 ![SS03_3_eng](https://user-images.githubusercontent.com/48848418/79066189-167c8800-7ce0-11ea-8b28-a7fa702f4826.png)
+
+## CA-SS04 – Combustible gas and flame Sensor / Flame warning system
+
+![SS04_1_eng](https://user-images.githubusercontent.com/48848418/79066723-6bba9880-7ce4-11ea-8339-31d15b548f57.png)
+
+![SS04_3_eng](https://user-images.githubusercontent.com/48848418/79066727-6fe6b600-7ce4-11ea-9d08-fac0a60d0b2c.png)
+
+![SS04_2_eng](https://user-images.githubusercontent.com/48848418/79066724-6e1cf280-7ce4-11ea-9042-7518526e4b56.png)
